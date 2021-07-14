@@ -44,3 +44,7 @@ table td{
   text-align: left;
   font-size: 18px;
 }
+p{
+  margin: 10px;
+  padding: 12px;
+}
